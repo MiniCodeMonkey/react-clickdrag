@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="5.1.0"></a>
+
+# [5.1.0](https://github.com/minicodemonkey/react-clickdrag/compare/v5.0.0...v5.1.0) (2024-12-17)
+
+### Bug Fixes
+
+- git url ([043798a](https://github.com/minicodemonkey/react-clickdrag/commit/043798a))
+
+### Features
+
+- Prepare for release ([ca8a7f0](https://github.com/minicodemonkey/react-clickdrag/commit/ca8a7f0))
+
 <a name="5.0.0"></a>
 
 # 5.0.0 (2024-12-17)
