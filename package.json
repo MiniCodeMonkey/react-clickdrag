@@ -8,12 +8,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tleunen/react-clickdrag.git"
+    "url": "https://github.com/minicodemonkey/react-clickdrag.git"
   },
   "bugs": {
-    "url": "https://github.com/tleunen/react-clickdrag/issues"
+    "url": "https://github.com/minicodemonkey/react-clickdrag/issues"
   },
-  "homepage": "https://github.com/tleunen/react-clickdrag",
+  "homepage": "https://github.com/minicodemonkey/react-clickdrag",
   "keywords": [
     "react",
     "react-component",
